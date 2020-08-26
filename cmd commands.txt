@@ -1,0 +1,30 @@
+cmd Commands
+systeminfo
+ver // display operating system version
+cls // clear screen
+exit // close cmd console
+date /t or  date // show date
+time /t // show exit time
+
+
+
+D : // go on D derive
+mkdir foldername // create a new folder in D derive
+rmdir foldername // remove any folder from derive
+del filename.txt // delete any file from derive
+dir // check file & folder 📂 in derive
+cd foldername 📂  // inside in  folder  //go forward
+cd.. // go on back folder // backwards 
+cd .. // outside from folder
+cd../.. // go direct on derive as D derive Note  /..  Go back only one Folder 
+type nul> filename.txt // create a file
+type  filename.txt // check content which write in file 
+ren/rename filename.txt filename2.txt // rename file name
+notepad filename.txt // write some text /message in file // open notepad
+copy filename.txt filename2.txt // copy one file to another file 
+
+move filename.txt foldername // move file as style.css in css folder
+
+color A/-A  // change console color
+
+
