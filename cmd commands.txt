@@ -1,30 +1,41 @@
-cmd Commands
-systeminfo
-ver // display operating system version
-cls // clear screen
-exit // close cmd console
-date /t or  date // show date
-time /t // show exit time
+Important cmd commands
+
+1. systeminfo     # get system information
+2. ver            # get Microsoft Windows [Version 10.0.19043.1320]
+3.  date/t        # get   current date is: 14-11-2021
+4.  time/t      # get   current time is: 11.38.17.56
+5. cls         #get clear screen on cm windows 
+6. exit        #get exit cmd windows 
+7. vol         #get current derive or volume
+8. ipconfig /all   # ip Physical Address. . . . . . . . . : C2-B5-D7-E3-F5-D3
+9. ping google.com # check internet connection or network 
+10. color /A or color -A  # change console color
 
 
+must Important cmd commands in window 10
 
-D : // go on D derive
-mkdir foldername // create a new folder in D derive
-rmdir foldername // remove any folder from derive
-del filename.txt // delete any file from derive
-dir // check file & folder 📂 in derive
-cd foldername 📂  // inside in  folder  //go forward
-cd.. // go on back folder // backwards 
-cd .. // outside from folder
-cd../.. // go direct on derive as D derive Note  /..  Go back only one Folder 
-type nul> filename.txt // create a file
-type  filename.txt // check content which write in file 
-ren/rename filename.txt filename2.txt // rename file name
-notepad filename.txt // write some text /message in file // open notepad
-copy filename.txt filename2.txt // copy one file to another file 
+1. d:                              #go to D drive  or D volume 
+2. dir                             #check store data in folder 📂 
+3. cd foldername  or cd desktop    #inside in  a folder 📂
+4. cd..                        # outside single folder 📂 
+5. cd../..                     # outside double folder 📂 
+6. cd /..                      # go to direct C derived or volume
 
-move filename.txt foldername // move file as style.css in css folder
+                                                              
 
-color A/-A  // change console color
+folder
+7. mkdir foldername or mkdir images   # create a new folder 📂 
+8. rmdir foldername or rmdir images   # delete a empty folder 📂 
+
+
+file
+1. type nul>filename or hello.java                        # create a new file as hello.java
+2.  del foldername or del css del filename or style.css  # delete a file only as  style.css or delete all file from css folder del css
+3.  ren currentfilename  new filename or hello.java to dot.java  # rename new file as hello.java to dot.java
+4 notepad filename or office.txt                  # open file or edit file
+5. type don.txt                                   # see date from file
+6 copy office.txt  homework.txt                   #copy data office file into homework file 
+7. move filename foldername or move style.css css      # move a file into folder
+
 
 
